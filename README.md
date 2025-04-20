@@ -1,6 +1,3 @@
-# Port-Scanner
-Python-based Port Scanner using Scapy.
-
 # Port Scanner 🔍
 
 A beginner-level Python-based Port Scanner using Scapy.  
